@@ -1,11 +1,11 @@
-# BirthdayWish
+BirthdayWish
 
-#run👇👇👇
+run👇👇👇
 
-rm -rf BirthdayWish
+rm -rf Birthday
 
-git clone https://github.com/DH-Alamin/BirthdayWish
+git clone https://github.com/bktech122/Birthday.git
 
-cd BirthdayWish
+cd Birthday
 
 bash run.sh
